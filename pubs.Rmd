@@ -1,0 +1,52 @@
+---
+title: "Recent publications"
+---
+
+All my publication are on [google scholar](https://scholar.google.de/citations?user=sJ2lkaAAAAAJ&hl=de&oi=ao).
+
+## Methods for unsupervised integration of multi-omics data
+
+* [MOFA+: a probabilistic framework for comprehensive integration of structured single-cell data <br/>
+R Argelaguet\*, D Arnol\*, D Bredikhin, Y Deloro, B Velten, JC Marioni, et al. *Genome Biology 2020*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02015-1?utm_source=other_website&utm_medium=cpm&utm_content=leaderboard&utm_campaign=BSCN_2_DD_X-molfeed)
+* [Multi‐Omics Factor Analysis - a framework for unsupervised integration of multi‐omics data sets <br/>
+R Argelaguet\*, B Velten\*, D Arnol, S Dietrich, T Zenz, JC Marioni, F Buettner, et al. *Molecular systems biology 2018*](https://www.embopress.org/doi/10.15252/msb.20178124)
+
+
+
+## Methods for supervised integration of multi-omics data
+
+* [Adaptive penalization in high-dimensional regression and classification with external covariates using variational Bayes <br/>
+B Velten & W Huber. *Biostatistics 2019*](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxz034/5584177)
+
+
+## Applications
+
+*Personalized medicine & chronic lymphocytic leukemia *
+
+* [Survey of ex vivo drug combination effects in chronic lymphocytic leukemia
+reveals synergistic drug effects and genetic dependencies <br/>
+M Lukas\*, B Velten\*, L Sellner, K Tomska, J Huellein, T Walther, C Muley, et al. *Leukemia 2020*](https://www.nature.com/articles/s41375-020-0846-5)
+* [Drug-perturbation-based stratification of blood cancer <br/>
+S Dietrich\*, M Oleś\*, J Lu\*, L Sellner, S Anders, B Velten, B Wu, J Hüllein, et al. *The Journal of clinical investigation 2018*](https://www.jci.org/articles/view/93801)
+
+
+*Gene expression across evolution and development*
+
+* [Gene expression across mammalian organ development <br/>
+M Cardoso-Moreira, J Halbert, D Valloton, B Velten, C Chen, Y Shao, et al. *Nature 2019*](https://www.nature.com/articles/s41586-019-1338-5)
+* [Developmental gene expression differences between humans and mammalian models <br/>
+M Cardoso-Moreira, B Velten, M Mort, DN Cooper, W Huber, et al.
+*bioRxiv 2019*](https://www.biorxiv.org/content/10.1101/747782v1.abstract)
+
+*Determinants of transcription factor cooperativity*
+
+* [Mechanistic insights into transcription factor cooperativity and its impact on protein-phenotype interactions<br/>
+IL Ibarra, NM Hollmann, B Klaus, S Augsten, B Velten, J Hennig, et al. *Nature Communications 2020*](https://www.nature.com/articles/s41467-019-13888-7)
+
+## PhD Thesis
+
+* [Multivariate Methods for Heterogeneous High-Dimensional Data in Genome Biology <br/>
+B Velten *ETH Zurich 2019*](https://www.research-collection.ethz.ch/handle/20.500.11850/333437)
+
+
+\* denotes equal contributions

@@ -1,0 +1,32 @@
+---
+title: "Teaching and Conferences"
+---
+
+## Teaching
+
+* 2020 - *Computational single-cell course* at University Heidelberg (jointly with members of the Stegle lab)
+* 2020 - *Data Analysis for Life Sciences* at University Heidelberg (jointly with Wolfgang Huber)
+* 2016 - Teaching assistant for *Statistical methods in high throughput data analysis* at EMBL
+* 2011-2013  - Teaching assistant for *Linear Algebra* and *Complex Analysis* at University Heidelberg
+
+
+## Conferences (selection)
+
+* 2020 - Invited talk at [e-RUM 2020](https://2020.erum.io), Milano
+* 2019 - Invited keynote at [Single Cell OMICS data analysis workshop](https://canceropole-paca.com/agenda/single-cell-omics-data-analysis-workshop-2nd-edition/), Nice
+* 2018 - Invited tutorial at [New Directions in Single Cell Analysis](http://www.sound-biomed.eu/2018/02/28/final-consortium-meeting/), Heidelberg
+* 2017 - Talk at [Stanford - EMBL Conference on Personalized Health](https://events.stanford.edu/events/706/70645/), Stanford 
+* 2017 - Talk at [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2017/), Baltimore
+* 2017 - Invited talk at [Heidelberger Kolloquium Medizinische Biometrie](https://www.klinikum.uni-heidelberg.de/medizinische-informatik/willkommen/veranstaltungen-und-termine/kolloquium/kolloquium/kolloquium), Heidelberg
+* 2017 - Flash-talk and poster at [EMBO|EMBL Symposium: From Single- to Multiomics: Applications and Challenges in Data Integration](https://www.embo-embl-symposia.org/symposia/2017/EES17-10/), Heidelberg
+* 2017 - Talk at [Statistical Computing Workshop](https://sysbio.uni-ulm.de/ocs/index.php/statcomp/statcomp17), Reisenburg 
+* 2014 - Talk at [International Symposium on Nonlinear Theory and its Applications](https://chaos.keiei.shikoku-u.ac.jp/NOLTA14/), Lucerne (best paper award winner)
+
+
+
+
+## Conference (Co-)Organisation:
+
+* 2016 - 18th EMBL Phd Symposium: Life By Numbers: Towards Quantitative Biology
+17 - 19 Nov 2016, EMBL Heidelberg
+

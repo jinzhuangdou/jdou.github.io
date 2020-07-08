@@ -1,0 +1,20 @@
+---
+title: "Software"
+---
+
+Most of my software as well as vignettes and scripts for the analyses connnected to my research can be found on my [ GitHub page](https://github.com/bv2). In addition, I maintain the following software packages in Bioconductor:
+
+## MOFA
+
+MOFA provides a statistical framework for the unsupervised integration of multi-modal data.
+
+- Our latest version MOFA2 available from GitHub at [https://github.com/bioFAM/MOFA2](https://github.com/bioFAM/MOFA2) 
+- MOFA version 1: Bioconductor package [MOFA](http://bioconductor.org/packages/release/bioc/html/MOFA.html) (linked to the Python package [mofapy](https://pypi.org/project/mofapy/))
+
+*If you are interested in using MOFA for your research please check out the newest version on GitHub. This includes tutorials, FAQs and a link to a Slack group to get help*
+
+## graper
+
+graper performs high-dimensional regression with adaptive penalization based on side-information about the features.
+
+- Bioconductor package [graper](http://bioconductor.org/packages/release/bioc/html/graper.html)
