@@ -30,3 +30,6 @@ title: "Teaching and Conferences"
 * 2016 - 18th EMBL Phd Symposium: Life By Numbers: Towards Quantitative Biology
 17 - 19 Nov 2016, EMBL Heidelberg
 
+## Supervision:
+
+* 2020 - Jana Braunger, Bachelor thesis (Molecular Biotechnology, University Heidelberg)
