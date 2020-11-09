@@ -4,15 +4,18 @@ title: "Software"
 
 Most of my software as well as vignettes and scripts for the analyses connnected to my research can be found on my [ GitHub page](https://github.com/bv2). In addition, I maintain the following software packages in Bioconductor:
 
-## MOFA
+## MOFA 
 
 MOFA provides a statistical framework for the unsupervised integration of multi-modal data.
 
+- Our latest version MOFA2 is available from [Bioconductor](http://bioconductor.org/packages/release/bioc/html/MOFA2.html) and from GitHub at [https://github.com/bioFAM/MOFA2](https://github.com/bioFAM/MOFA2) 
+- MOFA version 1 (deprecated): Bioconductor package [MOFA](http://bioconductor.org/packages/release/bioc/html/MOFA.html) (linked to the Python package [mofapy](https://pypi.org/project/mofapy/))
 
-- Our latest version MOFA2 under review for Bioconductor and currently available from GitHub at [https://github.com/bioFAM/MOFA2](https://github.com/bioFAM/MOFA2) 
-- MOFA version 1: Bioconductor package [MOFA](http://bioconductor.org/packages/release/bioc/html/MOFA.html) (linked to the Python package [mofapy](https://pypi.org/project/mofapy/))
+*For information on MOFA please also visit our webpage at [https://biofam.github.io/MOFA2/](https://biofam.github.io/MOFA2/) for installation instructions, tutorials, FAQs and a link to a Slack group to get help.*
 
-*For information on MOFA please also visit our webpage at [https://biofam.github.io/MOFA2/](https://biofam.github.io/MOFA2/). There you will find installation instructions, tutorials, FAQs and a link to a Slack group to get help.*
+## MEFISTO
+
+MEFISTO incorporates temporal and spatial information on the samples into a decomposition of multi-modal data and opens up novel downstream-analyses. It is integrated into the most recent version of MOFA2. See [*https://biofam.github.io/MOFA2/MEFISTO*](https://biofam.github.io/MOFA2/MEFISTO) for more information.
 
 ## graper
 

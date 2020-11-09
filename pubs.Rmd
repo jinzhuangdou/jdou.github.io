@@ -6,6 +6,8 @@ All my publication are on [google scholar](https://scholar.google.de/citations?u
 
 ## Methods for unsupervised integration of multi-omics data
 
+* [Identifying temporal and spatial patterns of variation from multi-modal data using MEFISTO <br/>
+B Velten, JM Braunger, D Arnol, R Argelaguet, O Stegle. *bioRxiv 2020*](https://www.biorxiv.org/content/10.1101/2020.11.03.366674v1?rss=1)
 * [MOFA+: a probabilistic framework for comprehensive integration of structured single-cell data <br/>
 R Argelaguet\*, D Arnol\*, D Bredikhin, Y Deloro, B Velten, JC Marioni, et al. *Genome Biology 2020*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02015-1?utm_source=other_website&utm_medium=cpm&utm_content=leaderboard&utm_campaign=BSCN_2_DD_X-molfeed)
 * [Multi‐Omics Factor Analysis - a framework for unsupervised integration of multi‐omics data sets <br/>
@@ -32,11 +34,11 @@ S Dietrich\*, M Oleś\*, J Lu\*, L Sellner, S Anders, B Velten, B Wu, J Hüllein
 
 *Gene expression across evolution and development*
 
+* [Developmental gene expression differences between humans and mammalian models <br/>
+M Cardoso-Moreira, I Sarropoulos, B Velten, M Mort, DN Cooper, W Huber, et al.
+*Cell Reports 2020*](https://www.sciencedirect.com/science/article/pii/S2211124720312973)
 * [Gene expression across mammalian organ development <br/>
 M Cardoso-Moreira, J Halbert, D Valloton, B Velten, C Chen, Y Shao, et al. *Nature 2019*](https://www.nature.com/articles/s41586-019-1338-5)
-* [Developmental gene expression differences between humans and mammalian models <br/>
-M Cardoso-Moreira, B Velten, M Mort, DN Cooper, W Huber, et al.
-*bioRxiv 2019*](https://www.biorxiv.org/content/10.1101/747782v1.abstract)
 
 *Determinants of transcription factor cooperativity*
 
