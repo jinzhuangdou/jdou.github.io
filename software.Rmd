@@ -2,7 +2,7 @@
 title: "Software"
 ---
 
-Most of my software as well as vignettes and scripts for the analyses connnected to my research can be found on my [ GitHub page](https://github.com/bv2). In addition, I maintain the following software packages in Bioconductor:
+Most of my software as well as vignettes and scripts for the analyses connnected to my research can be found on my [ GitHub page](https://github.com/bv2). In addition, I maintain the following software packages:
 
 ## MOFA 
 
@@ -15,10 +15,8 @@ MOFA provides a statistical framework for the unsupervised integration of multi-
 
 ## MEFISTO
 
-MEFISTO incorporates temporal and spatial information on the samples into a decomposition of multi-modal data and opens up novel downstream-analyses. It is integrated into the most recent version of MOFA2. See [*https://biofam.github.io/MOFA2/MEFISTO*](https://biofam.github.io/MOFA2/MEFISTO) for more information.
+MEFISTO incorporates temporal and spatial information on the samples into a decomposition of multi-modal data and opens up novel downstream-analyses. It is integrated into the most recent version of MOFA2. See [*the MEFISTO webpage*](https://biofam.github.io/MOFA2/MEFISTO) for more information.
 
 ## graper
 
-graper performs high-dimensional regression with adaptive penalization based on side-information about the features.
-
-- Bioconductor package [graper](http://bioconductor.org/packages/release/bioc/html/graper.html)
+graper performs high-dimensional regression with adaptive penalization based on side-information about the features and is availabe as Bioconductor package [graper](http://bioconductor.org/packages/release/bioc/html/graper.html).

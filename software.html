@@ -23,6 +23,15 @@
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -67,6 +76,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -304,7 +314,7 @@ $(document).ready(function () {
 </div>
 
 
-<p>Most of my software as well as vignettes and scripts for the analyses connnected to my research can be found on my <a href="https://github.com/bv2">GitHub page</a>. In addition, I maintain the following software packages in Bioconductor:</p>
+<p>Most of my software as well as vignettes and scripts for the analyses connnected to my research can be found on my <a href="https://github.com/bv2">GitHub page</a>. In addition, I maintain the following software packages:</p>
 <div id="mofa" class="section level2">
 <h2>MOFA</h2>
 <p>MOFA provides a statistical framework for the unsupervised integration of multi-modal data.</p>
@@ -316,14 +326,11 @@ $(document).ready(function () {
 </div>
 <div id="mefisto" class="section level2">
 <h2>MEFISTO</h2>
-<p>MEFISTO incorporates temporal and spatial information on the samples into a decomposition of multi-modal data and opens up novel downstream-analyses. It is integrated into the most recent version of MOFA2. See <a href="https://biofam.github.io/MOFA2/MEFISTO"><em>https://biofam.github.io/MOFA2/MEFISTO</em></a> for more information.</p>
+<p>MEFISTO incorporates temporal and spatial information on the samples into a decomposition of multi-modal data and opens up novel downstream-analyses. It is integrated into the most recent version of MOFA2. See <a href="https://biofam.github.io/MOFA2/MEFISTO"><em>the MEFISTO webpage</em></a> for more information.</p>
 </div>
 <div id="graper" class="section level2">
 <h2>graper</h2>
-<p>graper performs high-dimensional regression with adaptive penalization based on side-information about the features.</p>
-<ul>
-<li>Bioconductor package <a href="http://bioconductor.org/packages/release/bioc/html/graper.html">graper</a></li>
-</ul>
+<p>graper performs high-dimensional regression with adaptive penalization based on side-information about the features and is availabe as Bioconductor package <a href="http://bioconductor.org/packages/release/bioc/html/graper.html">graper</a>.</p>
 </div>
 
 
@@ -335,7 +342,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

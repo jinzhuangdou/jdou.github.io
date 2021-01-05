@@ -2,7 +2,7 @@
 title: "Recent publications"
 ---
 
-All my publication are on [google scholar](https://scholar.google.de/citations?user=sJ2lkaAAAAAJ&hl=de&oi=ao).
+You can find all publication on [google scholar](https://scholar.google.de/citations?user=sJ2lkaAAAAAJ&hl=de&oi=ao).
 
 ## Methods for unsupervised integration of multi-omics data
 
