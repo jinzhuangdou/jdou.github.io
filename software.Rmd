@@ -4,6 +4,7 @@ title: "Software"
 
 Most of my software as well as vignettes and scripts for the analyses connnected to my research can be found on my [ GitHub page](https://github.com/bv2). In addition, I maintain the following software packages:
 
+
 ## MOFA 
 
 MOFA provides a statistical framework for the unsupervised integration of multi-modal data.
@@ -11,7 +12,7 @@ MOFA provides a statistical framework for the unsupervised integration of multi-
 - Our latest version MOFA2 is available from [Bioconductor](http://bioconductor.org/packages/release/bioc/html/MOFA2.html) and from GitHub at [https://github.com/bioFAM/MOFA2](https://github.com/bioFAM/MOFA2) 
 - MOFA version 1 (deprecated): Bioconductor package [MOFA](http://bioconductor.org/packages/release/bioc/html/MOFA.html) (linked to the Python package [mofapy](https://pypi.org/project/mofapy/))
 
-*For information on MOFA please also visit our webpage at [https://biofam.github.io/MOFA2/](https://biofam.github.io/MOFA2/) for installation instructions, tutorials, FAQs and a link to a Slack group to get help.*
+*For information on MOFA please also visit [our webpage](https://biofam.github.io/MOFA2/) for installation instructions, tutorials, FAQs and a link to a Slack group to get help.*
 
 ## MEFISTO
 

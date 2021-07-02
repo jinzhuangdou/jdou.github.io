@@ -4,6 +4,8 @@ title: "Conferences and teaching"
 
 ## Conferences (selection)
 
+* 2021 - Invited talk at [EMBL-EBI Industry Programme Workshop](https://www.ebi.ac.uk/industry) on *Network Reconstructions From Multi-Level Data*, virtual
+* 2021 - Talk at [Probabilistic Modeling In Genomics (PROBGEN 2021)](https://meetings.cshl.edu/meetings.aspx?meet=PROBGEN&year=21), virtual
 * 2020 - Talk at [ELLIS Health Workshop: Explainable Machine Learning & Biological Mechanisms](https://ellis.eu/events/ellis-health-workshop-explainable-machine-learning-biological-mechanisms), virtual
 * 2020 - Invited keynote at [EuroBioc 2020](https://eurobioc2020.bioconductor.org), virtual
 * 2020 - Invited talk at [e-RUM 2020](https://2020.erum.io), virtual
@@ -27,15 +29,17 @@ title: "Conferences and teaching"
 
 ## Teaching
 
+* 2021 - *Computational single-cell course* at University Heidelberg
 * 2020 - *Computational single-cell course* at University Heidelberg
 * 2020 - *Data Analysis for Life Sciences* at University Heidelberg
-* 2016 - Teaching assistant for *Statistical methods in high throughput data analysis* at EMBL
-* 2011-2013  - Teaching assistant for *Linear Algebra* and *Complex Analysis* at University Heidelberg
+* 2016 - Teaching assistant *Statistical methods in high throughput data analysis* at EMBL
+* 2011-2013  - Teaching assistant  *Linear Algebra* and *Complex Analysis* at University Heidelberg
 
 
-## Supervision:
-
-* ongoing - Donald Hansen, Master rotation project (Molecular Biotechnology, Heidelberg University) - co-supervision with Rajbir Batra
+## Supervision
+* ongoing - Martin Rohbeck, PhD thesis
 * ongoing - Florin Walter, Master thesis (Physics, Heidelberg University)
+* ongoing - Daniel Torka, Master thesis (Molecular Biotechnology, Heidelberg University) - co-supervison with Georg Zeller and Jakob Wirbel
+* 2021 - Donald Hansen, Master rotation project (Molecular Biotechnology, Heidelberg University) - co-supervision with Rajbir Batra
 * 2020 - Jana Braunger, Bachelor thesis (Molecular Biotechnology, Heidelberg University)
 * 2020 - Michael Altenmüller, Master thesis (Mathematics, Heidelberg University) - main supervisors: Ulrich Koethe and Jens Müller
