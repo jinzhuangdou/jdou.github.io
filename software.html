@@ -13,7 +13,7 @@
 
 <title>Software</title>
 
-<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -277,16 +277,17 @@ $(document).ready(function () {
 <p>Most of my software as well as vignettes and scripts for the analyses connnected to my research can be found on my <a href="https://github.com/bv2">GitHub page</a>. In addition, I maintain the following software packages:</p>
 <div id="mofa" class="section level2">
 <h2>MOFA</h2>
-<p>MOFA provides a statistical framework for the unsupervised integration of multi-modal data.</p>
+<p>MOFA provides a statistical framework for the unsupervised integration of multi-modal data. MOFA is implemented in</p>
 <ul>
-<li>Our latest version MOFA2 is available from <a href="http://bioconductor.org/packages/release/bioc/html/MOFA2.html">Bioconductor</a> and from GitHub at <a href="https://github.com/bioFAM/MOFA2">https://github.com/bioFAM/MOFA2</a></li>
-<li>MOFA version 1 (deprecated): Bioconductor package <a href="http://bioconductor.org/packages/release/bioc/html/MOFA.html">MOFA</a> (linked to the Python package <a href="https://pypi.org/project/mofapy/">mofapy</a>)</li>
+<li>the R package <code>MOFA2</code>, which is available from <a href="http://bioconductor.org/packages/release/bioc/html/MOFA2.html">Bioconductor</a> and from <a href="https://github.com/bioFAM/MOFA2">GitHub</a>,</li>
+<li>in the Python package <code>mofapy2</code>, which available from <a href="https://pypi.org/project/mofapy2/">PyPI</a> and <a href="https://github.com/bioFAM/mofapy2">GitHub</a>.</li>
 </ul>
-<p><em>For information on MOFA please also visit <a href="https://biofam.github.io/MOFA2/">our webpage</a> for installation instructions, tutorials, FAQs and a link to a Slack group to get help.</em></p>
+<p>Note that older versions have been deprecated: <a href="http://bioconductor.org/packages/release/bioc/html/MOFA.html"><code>MOFA</code></a>, <a href="https://pypi.org/project/mofapy/"><code>mofapy</code></a></p>
+<p>For information on MOFA please visit <a href="https://biofam.github.io/MOFA2/">our MOFA webpage</a> for installation instructions, tutorials, FAQs and a link to a Slack group to get help.</p>
 </div>
 <div id="mefisto" class="section level2">
 <h2>MEFISTO</h2>
-<p>MEFISTO incorporates temporal and spatial information on the samples into a decomposition of multi-modal data and opens up novel downstream-analyses. It is integrated into the most recent version of MOFA2. See <a href="https://biofam.github.io/MOFA2/MEFISTO"><em>the MEFISTO webpage</em></a> for more information.</p>
+<p>MEFISTO incorporates temporal and spatial information on the samples into a decomposition of multi-modal data and opens up novel downstream-analyses. It is integrated into the most the R package <code>MOFA2&gt;= 1.1.7</code> and Python package <code>mofapy2 &gt;= 0.6.0</code>. See <a href="https://biofam.github.io/MOFA2/MEFISTO">the MEFISTO webpage</a> for more information.</p>
 </div>
 <div id="graper" class="section level2">
 <h2>graper</h2>
