@@ -3,7 +3,8 @@ title: "Conferences and teaching"
 ---
 
 ## Conferences (selection)
-
+* 2021 - Talk at [ELLIS Life Annual Symposium](https://www.ellis-life-heidelberg.eu/latest/?p=214), virtual
+* 2021 - Invited talk at [CBB seminar of Duke University](https://genome.duke.edu/education/cbb/computational-biology-seminar), virtual
 * 2021 - Invited talk at [EMBL-EBI Industry Programme Workshop](https://www.ebi.ac.uk/industry) on *Network Reconstructions From Multi-Level Data*, virtual
 * 2021 - Talk at [Probabilistic Modeling In Genomics (PROBGEN 2021)](https://meetings.cshl.edu/meetings.aspx?meet=PROBGEN&year=21), virtual
 * 2020 - Talk at [ELLIS Health Workshop: Explainable Machine Learning & Biological Mechanisms](https://ellis.eu/events/ellis-health-workshop-explainable-machine-learning-biological-mechanisms), virtual

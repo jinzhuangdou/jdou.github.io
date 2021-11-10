@@ -23,3 +23,8 @@ MEFISTO incorporates temporal and spatial information on the samples into a deco
 ## graper
 
 graper performs high-dimensional regression with adaptive penalization based on side-information about the features and is availabe as Bioconductor package [graper](http://bioconductor.org/packages/release/bioc/html/graper.html).
+
+
+## FISHFactor
+
+FISHFactor identifies subcellular expression patterns from single-molecule resolved transcriptomics data and uses them to identify spatial gene clusters and dissect cell-to-cell heterogeneity. The code is available from [GitHub](https://github.com/bioFAM/FISHFactor).
