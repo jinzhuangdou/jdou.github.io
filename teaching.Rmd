@@ -3,6 +3,7 @@ title: "Conferences and teaching"
 ---
 
 ## Conferences (selection)
+* 2022 - Invited keynote at [Applied Bioinformatics in Life Sciences](https://www.vibconferences.be/events/applied-bioinformatics-in-life-sciences-4th-edition), Leuven 
 * 2021 - Talk at [ELLIS Life Annual Symposium](https://www.ellis-life-heidelberg.eu/latest/?p=214), virtual
 * 2021 - Invited talk at [CBB seminar of Duke University](https://genome.duke.edu/education/cbb/computational-biology-seminar), virtual
 * 2021 - Invited talk at [EMBL-EBI Industry Programme Workshop](https://www.ebi.ac.uk/industry) on *Network Reconstructions From Multi-Level Data*, virtual
@@ -25,10 +26,10 @@ title: "Conferences and teaching"
 ## Conference (Co-)Organisation:
 
 * 2021 - EMBO Practical course: Integrative Analysis of Multi-Omics (*postponed to 2022*)
-* 2016 - 18th EMBL Phd Symposium: Life By Numbers: Towards Quantitative Biology
-17 - 19 Nov 2016, EMBL Heidelberg
+* 2016 - 18th EMBL Phd Symposium *Life By Numbers: Towards Quantitative Biology*, EMBL Heidelberg
 
 ## Teaching
+* 2022 - EBI course *Introduction to multi-omics data integration and visualisation*
 * 2021 - Medical Systems Biology lecture *Multi-omics: technology, computation and biology*
  at MDC Berlin
 * 2021 - *Computational single-cell course* at University Heidelberg
@@ -39,9 +40,10 @@ title: "Conferences and teaching"
 
 
 ## Supervision
+* ongoing - Tim Treis, Master thesis (Molecular Biotechnology, Heidelberg University)
 * ongoing - Martin Rohbeck, PhD thesis
 * ongoing - Florin Walter, Master thesis (Physics, Heidelberg University)
-* ongoing - Daniel Torka, Master thesis (Molecular Biotechnology, Heidelberg University) - co-supervison with Georg Zeller and Jakob Wirbel
+* 2021/22 - Daniel Torka, Master thesis (Molecular Biotechnology, Heidelberg University) - co-supervison with Georg Zeller and Jakob Wirbel
 * 2021 - Donald Hansen, Master rotation project (Molecular Biotechnology, Heidelberg University) - co-supervision with Rajbir Batra
 * 2020 - Jana Braunger, Bachelor thesis (Molecular Biotechnology, Heidelberg University)
 * 2020 - Michael Altenmüller, Master thesis (Mathematics, Heidelberg University) - main supervisors: Ulrich Koethe and Jens Müller

@@ -6,8 +6,8 @@ You can find all publication on [google scholar](https://scholar.google.de/citat
 
 ## Methods for temporal and spatial omics data
 
-* [Identifying temporal and spatial patterns of variation from multi-modal data using MEFISTO](https://www.biorxiv.org/content/10.1101/2020.11.03.366674v1?rss=1) <br/>
-B Velten^#^, JM Braunger, D Arnol, R Argelaguet, O Stegle^#^. *bioRxiv 2020*
+* [Identifying temporal and spatial patterns of variation from multi-modal data using MEFISTO](https://www.nature.com/articles/s41592-021-01343-9) <br/>
+B Velten^#^, JM Braunger, D Arnol, R Argelaguet, O Stegle^#^. *Nat Meth 2022*
 * [FISHFactor: A Probabilistic Factor Model for Spatial Transcriptomics Data with Subcellular Resolution](https://www.biorxiv.org/content/10.1101/2021.11.04.467354v1) <br/>
 F Walter, O Stegle, B Velten^#^. *bioRxiv 2021*
 
@@ -23,13 +23,13 @@ B Velten^#^ & W Huber^#^. *Biostatistics 2019*
 
 ## Applications
 
-*Personalized medicine & chronic lymphocytic leukemia *
+*Personalized medicine*
 
 * [Survey of ex vivo drug combination effects in chronic lymphocytic leukemia
 reveals synergistic drug effects and genetic dependencies](https://www.nature.com/articles/s41375-020-0846-5) <br/>
 M Lukas\*, B Velten\*, L Sellner, K Tomska, J Huellein, T Walther, C Muley, et al. *Leukemia 2020*
 * [Drug-perturbation-based stratification of blood cancer](https://www.jci.org/articles/view/93801) <br/>
-S Dietrich\*, M Oleś\*, J Lu\*, L Sellner, S Anders, B Velten, B Wu, J Hüllein, et al. *The Journal of clinical investigation 2018*
+S Dietrich\*, M Oleś\*, J Lu\*, L Sellner, S Anders, B Velten, B Wu, J Hüllein, et al. *The Journal of clinical investigation 2018* 
 
 
 *Gene expression across evolution and development*
@@ -45,6 +45,11 @@ M Cardoso-Moreira, J Halbert, D Valloton, B Velten, C Chen, Y Shao, et al. *Natu
 * [Mechanistic insights into transcription factor cooperativity and its impact on protein-phenotype interactions](https://www.nature.com/articles/s41467-019-13888-7) <br/>
 IL Ibarra, NM Hollmann, B Klaus, S Augsten, B Velten, J Hennig, et al. *Nature Communications 2020*
 
+*Others*
+
+* [PhD and postdoc training outcomes at EMBL: changing career paths for life scientists in Europe](https://www.biorxiv.org/content/10.1101/2022.03.01.481975v2.abstract) <br/>
+J Lu,  B Velten,  B Klaus, M Ramm,  W Huber,  R Coulthard-Graf *bioRxiv 2022*
+  
 ## PhD Thesis
 
 * [Multivariate Methods for Heterogeneous High-Dimensional Data in Genome Biology](https://www.research-collection.ethz.ch/handle/20.500.11850/333437) <br/>
