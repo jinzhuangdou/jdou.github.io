@@ -3,6 +3,7 @@ title: "Conferences and teaching"
 ---
 
 ## Conferences (selection)
+* 2022 - Invited talk at [Multi-Omics ONLINE](https://frontlinegenomics.com/multi-omics-online-july-2022/), virtual 
 * 2022 - Invited keynote at [Applied Bioinformatics in Life Sciences](https://www.vibconferences.be/events/applied-bioinformatics-in-life-sciences-4th-edition), Leuven 
 * 2022 - Invited keynote at [Workshop in Mathematical and Computational Biology](https://sites.google.com/view/wmcb2022/home), virtual 
 * 2022 - Invited talk at [Cardio-Pulmonary Institute (CPI) retreat](https://www.cpi-online.de), virtual
