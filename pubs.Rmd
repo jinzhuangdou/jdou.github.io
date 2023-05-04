@@ -28,9 +28,9 @@ R Argelaguet\*, B Velten\*, D Arnol, S Dietrich, T Zenz, JC Marioni, F Buettner,
 
 *Evolution and development*
 
-* [Spatially resolved single-cell multiomics map of human trophoblast differentiation in early pregnancy](https://www.biorxiv.org/content/10.1101/2022.11.06.515326v1.abstract) <br/>
-A Arutyunyan, K Roberts, MA Sheridan,  I Kats, L Garcia-Alonso, B Velten, et al.
-*bioRxiv 2022*
+* [Spatial multiomics map of trophoblast development in early pregnancy](https://www.nature.com/articles/s41586-023-05869-0) <br/>
+A Arutyunyan, K Roberts, K Troulé, F Wong, MA Sheridan,  I Kats, L Garcia-Alonso, B Velten, et al.
+*Nature 2023*
 * [Developmental gene expression differences between humans and mammalian models](https://www.sciencedirect.com/science/article/pii/S2211124720312973) <br/>
 M Cardoso-Moreira, I Sarropoulos, B Velten, M Mort, DN Cooper, W Huber, et al.
 *Cell Reports 2020*
