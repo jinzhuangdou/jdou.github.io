@@ -13,8 +13,8 @@
 
 <title>About me</title>
 
-<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -57,6 +57,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -81,6 +82,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -138,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -171,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -180,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -233,7 +234,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -274,10 +275,38 @@ $(document).ready(function () {
 </div>
 
 
-<p>I am tenure-track-professor for <em>Multifactorial Data Analysis and Machine Learning in the Life Sciences</em> at <a href="https://www.cos.uni-heidelberg.de/en/research-groups/biological-data-science">the Centre for orgnanismal studies (COS)</a> and <a href="https://typo.iwr.uni-heidelberg.de/home">the Centre for Scientific Computing (IWR)</a> of Heidelberg University.</p>
-<p>Trained as a mathematician, I obtained a PhD in statistics from ETH Zurich and EMBL Heidelberg working with <a href="https://math.ethz.ch/research/seminar-for-statistics/peter-buehlmann.html">Peter Bühlmann</a> and <a href="https://www.huber.embl.de">Wolfgang Huber</a>. From 2019-2022, I was a postdoc at the German Cancer Research Center and the <a href="https://www.sanger.ac.uk">Wellcome Sanger Institute</a> in Cambridge. As a visiting researcher I worked with <a href="https://statweb.stanford.edu/~susan/susan_person.html">Susan Holmes at Stanford University</a> and with <a href="https://bsse.ethz.ch/cobi">Dagmar Iber at D-BSSE</a>.</p>
-<p>In my research, I aim to apply statistical reasoning in combination with modern machine learning approaches to gain insights into fundamental processes that underlie complex biological systems and dissect the molecular heterogeneity of biological processes. For this I develop statistical methods and computational tools to analyse and integrate ’omics data and apply them in a variety of fields including personalized medicine, cancer biology, single cell biology and developmental biology. The tools and methods I develop are available from <a href="https://www.bioconductor.org">Bioconductor</a>, <a href="https://pypi.org">PyPI</a> and GitHub.</p>
-<p>You can find me on <a href="https://twitter.com/brittavelten">Twitter</a>, <a href="https://www.linkedin.com/in/britta-velten-22a36813a">LinkedIn</a>, <a href="https://scholar.google.de/citations?user=sJ2lkaAAAAAJ&amp;hl=de&amp;oi=ao">Google Scholar</a> and <a href="https://github.com/bv2">GitHub</a>.</p>
+<p>I am tenure-track-professor for <em>Multifactorial Data Analysis and
+Machine Learning in the Life Sciences</em> at <a
+href="https://www.cos.uni-heidelberg.de/en/research-groups/biological-data-science">the
+Centre for organismal studies (COS)</a> and <a
+href="https://typo.iwr.uni-heidelberg.de/home">the Centre for Scientific
+Computing (IWR)</a> of Heidelberg University.</p>
+<p>Trained as a mathematician, I obtained a PhD in statistics from ETH
+Zurich and EMBL Heidelberg working with <a
+href="https://math.ethz.ch/research/seminar-for-statistics/peter-buehlmann.html">Peter
+Bühlmann</a> and <a href="https://www.huber.embl.de">Wolfgang Huber</a>.
+From 2019-2022, I was a postdoc at the German Cancer Research Center and
+the <a href="https://www.sanger.ac.uk">Wellcome Sanger Institute</a> in
+Cambridge. As a visiting researcher I worked with <a
+href="https://susan.su.domains/">Susan Holmes at Stanford University</a>
+and with <a href="https://bsse.ethz.ch/cobi">Dagmar Iber at
+D-BSSE</a>.</p>
+<p>In my research, I aim to apply statistical reasoning in combination
+with modern machine learning approaches to gain insights into
+fundamental processes that underlie complex biological systems and
+dissect the molecular heterogeneity of biological processes. For this I
+develop statistical methods and computational tools to analyse and
+integrate ’omics data and apply them in a variety of fields including
+personalized medicine, cancer biology, single cell biology and
+developmental biology. The tools and methods I develop are available
+from <a href="https://www.bioconductor.org">Bioconductor</a>, <a
+href="https://pypi.org">PyPI</a> and GitHub.</p>
+<p>You can find me on <a
+href="https://twitter.com/brittavelten">Twitter</a>, <a
+href="https://www.linkedin.com/in/britta-velten-22a36813a">LinkedIn</a>,
+<a
+href="https://scholar.google.de/citations?user=sJ2lkaAAAAAJ&amp;hl=de&amp;oi=ao">Google
+Scholar</a> and <a href="https://github.com/bv2">GitHub</a>.</p>
 <p><br></p>
 <p align="center">
 <img src="figs/britta.jpg" width="200" />
